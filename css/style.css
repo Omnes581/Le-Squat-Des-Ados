@@ -1,0 +1,30 @@
+body {
+}
+
+.wrapper {
+  background-image: url('/img/banniere.jpg');
+  height: 570px;
+  background-size: cover;
+  padding-top: 150px;
+  text-align: center;
+  color: white;
+ }
+
+.wrapper h1 {
+	letter-spacing:0.2em;
+	padding-bottom: 20px;
+}
+
+.espace {
+	padding-top:80px;
+}
+
+.btn-transparent {
+	background-color:Transparent;
+	border:white 2px solid;
+}
+
+.btn-transparent:hover {
+	background-color:Transparent;
+	border:white 2px solid;
+}
