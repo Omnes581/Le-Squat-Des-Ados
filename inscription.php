@@ -137,6 +137,7 @@ $titre = "Inscription";
                         <option value="974">(974) Réunion </option>
                         <option value="975">(975) Saint Pierre et Miquelon </option>
                         <option value="976">(976) Mayotte </option>
+                        
                     </select>
                     </tr>
                     <tr>
