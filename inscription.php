@@ -1,10 +1,9 @@
-<?php 
+<?php
 $titre = "Inscription";
 ?>
 <?php include 'include/commun.php'; ?>
 <?php include 'include/header.php'; ?>
 <?php include 'include/footer.php'; ?>
-
 
 <div class="container">
       <div class="row text-center">
@@ -137,7 +136,7 @@ $titre = "Inscription";
                         <option value="974">(974) Réunion </option>
                         <option value="975">(975) Saint Pierre et Miquelon </option>
                         <option value="976">(976) Mayotte </option>
-                        
+
                     </select>
                     </tr>
                     <tr>

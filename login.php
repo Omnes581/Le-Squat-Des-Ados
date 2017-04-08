@@ -1,4 +1,4 @@
-<?php 
+<?php
 $titre = "Login";
 ?>
 <?php include 'include/commun.php'; ?>

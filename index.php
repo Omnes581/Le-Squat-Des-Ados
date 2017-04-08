@@ -1,4 +1,4 @@
-<?php 
+<?php
 $titre = "Accueil";
 ?>
 <?php include 'include/commun.php'; ?>
@@ -10,7 +10,7 @@ $titre = "Accueil";
         <p>
         <h1>Rencontre des adolescents comme toi !</h1>
           <a href="inscription.php" class="btn btn-success btn-lg btn-transparent">Inscription</a>
-          
+
         </p>
       </div>
     </div>

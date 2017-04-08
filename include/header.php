@@ -27,7 +27,7 @@
         <meta name="DC.Copyright" content="CYK">
         <meta name="DC.Author" content="Cedric Delepy Omnes">
         <meta name="DC.Identifier-Url" content="http://lesquatdesados.fr">
-        
+
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="border-bottom:#8E9090 2px solid">
         <div class="container-fluid">
         <div class="navbar-header">
